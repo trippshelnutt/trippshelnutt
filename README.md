@@ -2,6 +2,7 @@
 - Software Engineer at @Qualtrax (Acquired by Ideagen, March 2021)
 
 👀 I’m interested in...
+- Katas
 - OOP
 - C#
 - JavaScript
