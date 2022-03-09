@@ -1,16 +1,17 @@
 👋 Hi, I’m @trippshelnutt
-- Software Engineer at @Qualtrax (Acquired by Ideagen, March 2021)
+- Software Engineer at @Qualtrax
 
 👀 I’m interested in...
 - Katas
 - OOP
 - C#
-- JavaScript
 
 🌱 I’m currently learning...
 - FP
-- F#
-- TypeScript
+- F#, Python
+  - exercism.com
+- Machine Learning
+  - Programming Machine Learning - Perrota
 
 📫 How to reach me...
 - [My site](https://trippshelnutt.com)
