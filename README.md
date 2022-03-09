@@ -1,20 +1,21 @@
-👋 Hi, I’m @trippshelnutt
+Hi 👋, I’m @trippshelnutt
 - Software Engineer at @Qualtrax
 
 👀 I’m interested in...
+- OOP/FP
+- C#/F#/.NET
 - Katas
-- OOP
-- C#
+  - [Kata Catalog](https://github.com/ardalis/kata-catalog) 
 
 🌱 I’m currently learning...
-- FP
-- F#, Python
-  - exercism.com
 - Machine Learning
-  - Programming Machine Learning - Perrota
+  - [Programming Machine Learning](https://www.progml.com/)
+- Python
+  - [Exercism.org](https://exercism.org/profiles/trippshelnutt)
+- Mathematics
+  - [Khan Academy](https://www.khanacademy.org/profile/trippshelnutt)
 
 📫 How to reach me...
-- [My site](https://trippshelnutt.com)
-- [My resume](https://resume.trippshelnutt.com)
+- [Blog](https://blog.trippshelnutt.com)
 - [Twitter](https://twitter.com/trippshelnutt)
 - [LinkedIn](https://www.linkedin.com/in/trippshelnutt/)
