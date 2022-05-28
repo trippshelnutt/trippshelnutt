@@ -16,6 +16,4 @@ Hi 👋, I’m @trippshelnutt
   - [Khan Academy](https://www.khanacademy.org/profile/trippshelnutt)
 
 📫 How to reach me...
-- [Blog](https://blog.trippshelnutt.com)
-- [Twitter](https://twitter.com/trippshelnutt)
 - [LinkedIn](https://www.linkedin.com/in/trippshelnutt/)
