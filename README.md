@@ -10,7 +10,7 @@ Hi 👋, I’m @trippshelnutt
 🌱 I’m currently learning...
 - Machine Learning
   - [Programming Machine Learning](https://www.progml.com/)
-- Python
+- Other programming languages
   - [Exercism.org](https://exercism.org/profiles/trippshelnutt)
 - Mathematics
   - [Khan Academy](https://www.khanacademy.org/profile/trippshelnutt)
