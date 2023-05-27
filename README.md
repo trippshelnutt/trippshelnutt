@@ -1,18 +1,18 @@
 Hi 👋, I’m @trippshelnutt
 
 🎯 My repositories...
-- trippshelnutt.com
+- [trippshelnutt.com](https://github.com/trippshelnutt/trippshelnutt.com)
   - My landing site with information about myself and resume
   - Using Eleventy, Tailwind CSS, Netlify
-- transaction-sorter-v2
+- [transaction-sorter-v2](https://github.com/trippshelnutt/transaction-sorter-v2)
   - Utility website that I use to call a 3rd party API and view data
   - Using C#, WebAPI, XUnit for the backend
   - Using JavaScript, React, MUI, Jest for the frontend
   - Using GitHub actions for CI/CD
   - Using AWS for hosting
-- mancala
+- [mancala](https://github.com/trippshelnutt/mancala)
   - I'm building the mancala game as a website
-  - Just starting this one
+  - Just getting starting on this one
 
 👀 I’m interested in...
 - OOP/FP
