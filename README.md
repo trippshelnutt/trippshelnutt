@@ -1,5 +1,18 @@
 Hi 👋, I’m @trippshelnutt
-- Software Engineer at @Qualtrax
+
+🎯 My repositories...
+- trippshelnutt.com
+  - My landing site with information about myself and resume
+  - Using Eleventy, Tailwind CSS, Netlify
+- transaction-sorter-v2
+  - Utility website that I use to call a 3rd party API and view data
+  - Using C#, WebAPI, XUnit for the backend
+  - Using JavaScript, React, MUI, Jest for the frontend
+  - Using GitHub actions for CI/CD
+  - Using AWS for hosting
+- mancala
+  - I'm building the mancala game as a website
+  - Just starting this one
 
 👀 I’m interested in...
 - OOP/FP
