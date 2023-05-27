@@ -1,6 +1,6 @@
 Hi 👋, I’m @trippshelnutt
 
-🎯 My repositories...
+🎯 My main repositories...
 - [trippshelnutt.com](https://github.com/trippshelnutt/trippshelnutt.com)
   - My landing site with information about myself and resume
   - Using Eleventy, Tailwind CSS, Netlify
