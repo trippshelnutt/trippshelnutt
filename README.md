@@ -2,7 +2,7 @@ Hi 👋, I’m @trippshelnutt
 
 🎯 My main repositories...
 - [trippshelnutt-astro](https://github.com/trippshelnutt/trippshelnutt-astro)
-  - Project for [https://trippshelnutt.com]
+  - Project for https://trippshelnutt.com
   - My landing site with information about myself and resume
   - Using Astro, Tailwind CSS, Netlify
 - [transaction-sorter-v2](https://github.com/trippshelnutt/transaction-sorter-v2)
