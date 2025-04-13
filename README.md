@@ -5,10 +5,11 @@ Hi 👋, I’m @trippshelnutt
   - Project for https://trippshelnutt.com
   - My landing site with information about myself and resume
   - Using Astro, Tailwind CSS, Netlify
-- [transaction-sorter-v3-app](https://github.com/trippshelnutt/transaction-sorter-v3-app)
+- [transaction-sorter-nextjs](https://github.com/trippshelnutt/transaction-sorter-nextjs)
   - Utility website that I use to call a 3rd party API and view data
-  - Moved to Netlify for simplicity
-  - Migrated to Vite and TypeScript
+  - Moved to Next.js for simplicity
+  - Migrated to TypeScript
+  - TODO: migrate API to Next.js
 - [transaction-sorter-v2](https://github.com/trippshelnutt/transaction-sorter-v2)
   - Utility website that I use to call a 3rd party API and view data
   - Investigating simpler way to host API
